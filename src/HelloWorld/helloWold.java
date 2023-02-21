@@ -18,5 +18,12 @@ public class helloWold {
 		System.out.println("bonjour le monde");
 	}
 	
+	public static void ciaomondo(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("ciao mondo");
+	}
+	
+	
+	
 	
 }
