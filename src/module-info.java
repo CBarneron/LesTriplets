@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author IEUser
+ *
+ */
+module LesTriplet {
+}
